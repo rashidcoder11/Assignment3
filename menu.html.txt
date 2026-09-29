@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Delicious Bites - Menu</title>
+</head>
+
+<body>
+
+    <h1>Our Menu</h1>
+
+    <nav>
+        <a href="index.html">Home</a> |
+        <a href="about.html">About</a> |
+        <a href="menu.html">Menu</a> |
+        <a href="contact.html">Contact</a>
+    </nav>
+
+    <hr>
+
+    <h2>Food Menu</h2>
+
+    <p>
+        We offer a variety of fresh and delicious food for our customers.
+    </p>
+
+    <h3>Pizza</h3>
+
+    <ul>
+        <li>Margherita Pizza</li>
+        <li>Chicken Pizza</li>
+        <li>Vegetable Pizza</li>
+    </ul>
+
+    <h3>Burgers</h3>
+
+    <ul>
+        <li>Chicken Burger</li>
+        <li>Beef Burger</li>
+        <li>Cheese Burger</li>
+    </ul>
+
+    <h3>Pasta</h3>
+
+    <ul>
+        <li>Chicken Pasta</li>
+        <li>White Sauce Pasta</li>
+        <li>Vegetable Pasta</li>
+    </ul>
+
+    <h3>Drinks</h3>
+
+    <ul>
+        <li>Fresh Lemonade</li>
+        <li>Fresh Juice</li>
+        <li>Soft Drink</li>
+    </ul>
+
+</body>
+</html>

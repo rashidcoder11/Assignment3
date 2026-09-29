@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Delicious Bites - Home</title>
+</head>
+
+<body>
+
+    <h1>Delicious Bites Restaurant</h1>
+
+    <nav>
+        <a href="index.html">Home</a> |
+        <a href="about.html">About</a> |
+        <a href="menu.html">Menu</a> |
+        <a href="contact.html">Contact</a>
+    </nav>
+
+    <hr>
+
+    <h2>Welcome to Delicious Bites</h2>
+
+    <p>
+        Welcome to Delicious Bites Restaurant. We serve fresh, delicious
+        and quality food for our customers.
+    </p>
+
+    <h2>Why Choose Us?</h2>
+
+    <ul>
+        <li>Fresh and tasty food</li>
+        <li>Quality ingredients</li>
+        <li>Friendly service</li>
+        <li>Comfortable environment</li>
+    </ul>
+
+    <h2>Our Specialties</h2>
+
+    <p>
+        We offer delicious pizzas, burgers, pasta, sandwiches and refreshing
+        drinks.
+    </p>
+
+</body>
+</html>

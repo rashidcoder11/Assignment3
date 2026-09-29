@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Delicious Bites - Contact</title>
+</head>
+
+<body>
+
+    <h1>Contact Us</h1>
+
+    <nav>
+        <a href="index.html">Home</a> |
+        <a href="about.html">About</a> |
+        <a href="menu.html">Menu</a> |
+        <a href="contact.html">Contact</a>
+    </nav>
+
+    <hr>
+
+    <h2>Get in Touch</h2>
+
+    <p>
+        We would love to hear from you. You can contact us using the
+        information given below.
+    </p>
+
+    <h3>Contact Information</h3>
+
+    <ul>
+        <li>Phone: 0300-1234567</li>
+        <li>Email: deliciousbites@example.com</li>
+        <li>Address: Main Road, Karachi, Pakistan</li>
+    </ul>
+
+    <h3>Opening Hours</h3>
+
+    <ul>
+        <li>Monday - Friday: 11:00 AM - 10:00 PM</li>
+        <li>Saturday - Sunday: 12:00 PM - 11:00 PM</li>
+    </ul>
+
+    <h3>Visit Us</h3>
+
+    <p>
+        Visit Delicious Bites with your family and friends and enjoy
+        our fresh and tasty food.
+    </p>
+
+</body>
+</html>

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Delicious Bites - About</title>
+</head>
+
+<body>
+
+    <h1>About Delicious Bites</h1>
+
+    <nav>
+        <a href="index.html">Home</a> |
+        <a href="about.html">About</a> |
+        <a href="menu.html">Menu</a> |
+        <a href="contact.html">Contact</a>
+    </nav>
+
+    <hr>
+
+    <h2>About Our Restaurant</h2>
+
+    <p>
+        Delicious Bites is a restaurant that provides fresh, tasty and
+        high-quality food to its customers.
+    </p>
+
+    <p>
+        Our goal is to provide delicious meals and friendly service
+        in a comfortable environment.
+    </p>
+
+    <h2>Our Values</h2>
+
+    <ul>
+        <li>Quality Food</li>
+        <li>Fresh Ingredients</li>
+        <li>Customer Satisfaction</li>
+        <li>Clean Environment</li>
+    </ul>
+
+    <h2>Our Team</h2>
+
+    <p>
+        Our team works together to prepare delicious food and provide
+        good service to every customer.
+    </p>
+
+</body>
+</html>
